@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LilleAila&count_private=true&show_icons=true\&rank_icon=github" />
 </a>
 <a href="https://github.com/LilleAila">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilleAila&hide_progress=true&langs_count=10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilleAila&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
