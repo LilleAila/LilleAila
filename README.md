@@ -9,7 +9,7 @@
 
 ![Languages](https://skillicons.dev/icons?i=latex,javascript,ts,jquery,rust,py,lua,bash,css,sass,tailwind,svelte,react,firebase,c,cpp,markdown,nodejs,unity,cs,html,bots,regex&perline=10)
 
-![IDES](https://skillicons.dev/icons?i=neovim,vim,replit)
+![IDES](https://skillicons.dev/icons?i=neovim,vim,replit,vscode)
 
 ![Tools](https://skillicons.dev/icons?i=git,github)
 
