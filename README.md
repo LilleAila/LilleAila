@@ -7,9 +7,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilleAila&hide_progress=true&langs_count=8&card_width=320&hide=shaderlab,hlsl" />
 </a>
 
-![My most used languages](https://skillicons.dev/icons?i=latex,javascript,ts,rust,py,lua,linux,css,sass,svelte,c,cpp,markdown,nodejs,unity,cs,html&perline=7 "My skills at this moment")
+![Languages](https://skillicons.dev/icons?i=latex,javascript,ts,jquery,rust,py,lua,bash,css,sass,tailwind,svelte,react,firebase,c,cpp,markdown,nodejs,unity,cs,html,bots,regex&perline=7)
 
-![My IDES](https://skillicons.dev/icons?i=neovim,vim "IDE(s) that I utilize")
+![IDES](https://skillicons.dev/icons?i=neovim,vim,replit)
+
+![Tools](https://skillicons.dev/icons?i=git,github)
+
+![Computers and OSes](https://skillicons.dev/icons?i=linux,raspberrypi,macos)
 
 ![Discord Profile](https://discord.c99.nl/widget/theme-1/866326346262642728.png)
 <!--
