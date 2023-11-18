@@ -13,7 +13,7 @@
 
 ![Tools](https://skillicons.dev/icons?i=git,github)
 
-![Computers and OSes](https://skillicons.dev/icons?i=linux,raspberrypi,mac)
+![Computers and OSes](https://skillicons.dev/icons?i=linux,raspberrypi)
 
 ![Discord Profile](https://discord.c99.nl/widget/theme-1/866326346262642728.png)
 <!--
