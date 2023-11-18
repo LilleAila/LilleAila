@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilleAila&hide_progress=true&langs_count=8&card_width=320&hide=shaderlab,hlsl" />
 </a>
 
-![My most used languages](https://skillicons.dev/icons?i=latex,javascript,ts,rust,py,lua,linux,css,sass,svelte,c,cpp,markdown,nodejs,unity,cs&perline=7 "My skills at this moment")
+![My most used languages](https://skillicons.dev/icons?i=latex,javascript,ts,rust,py,lua,linux,css,sass,svelte,c,cpp,markdown,nodejs,unity,cs,html&perline=7 "My skills at this moment")
 
 ![My IDES](https://skillicons.dev/icons?i=neovim,vim "IDE(s) that I utilize")
 
