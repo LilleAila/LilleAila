@@ -11,7 +11,7 @@
 
 ![My IDES](https://skillicons.dev/icons?i=neovim,vim "IDE(s) that I utilize")
 
-![Discord Profile](https://discord.c99.nl/widget/theme-4/866326346262642728.png)
+![Discord Profile](https://discord.c99.nl/widget/theme-1/866326346262642728.png)
 <!--
 **LilleAila/LilleAila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
