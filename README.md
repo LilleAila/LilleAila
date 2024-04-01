@@ -8,9 +8,9 @@
 </a>
 
 
-![Languages](https://skillicons.dev/icons?i=latex,javascript,ts,jquery,rust,py,lua,bash,css,sass,tailwind,svelte,react,firebase,c,cpp,markdown,nodejs,unity,cs,html,bots,regex,linux,raspberrypi,git,github&perline=10)
+![Languages](https://skillicons.dev/icons?i=nix,latex,javascript,ts,jquery,rust,py,lua,bash,css,sass,tailwind,svelte,react,firebase,c,cpp,markdown,nodejs,unity,cs,html,haskell,regex,linux,raspberrypi,git,github&perline=10)
 
-![IDES](https://skillicons.dev/icons?i=neovim,vim,replit,vscode)
+![IDES](https://skillicons.dev/icons?i=neovim,vim,emacs,replit,vscode)
 
 ![Discord Profile](https://discord.c99.nl/widget/theme-1/866326346262642728.png)
 <!--
